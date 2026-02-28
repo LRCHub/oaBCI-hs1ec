@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "三ツ星カルテット",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-02-28T12:06:38.306299Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "三ツ星カルテット",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_三ツ星カルテット_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三ツ星カルテット",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_三ツ星カルテット_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
